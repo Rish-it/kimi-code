@@ -1,0 +1,20 @@
+apps/kimi-code/src/tui/utils/refresh-providers.ts
+  s_388cecc16b0015::t_8462b34af33e43 95-107
+  s_388cecc16b0015::t_5a8d2000a41967 340-346,359-362
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "e78b89a5712444e0472226a355a749e1ce7a56c1",
+  "prompts": {},
+  "sessions": {
+    "s_388cecc16b0015": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3ce33ff4-f2fe-4ad3-bdf7-f511e8776041",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
